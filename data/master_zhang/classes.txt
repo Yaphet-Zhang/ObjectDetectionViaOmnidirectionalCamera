@@ -1,0 +1,10 @@
+vehicle
+person
+light-red
+sign-person
+motorcycle
+bicycle
+sign-cross
+sign-single-lane
+light-green
+sign-no-cross

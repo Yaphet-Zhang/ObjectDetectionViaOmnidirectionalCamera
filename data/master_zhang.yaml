@@ -1,0 +1,8 @@
+train: data/master_zhang/train/images
+val: data/master_zhang/valid/images
+test:  # optional
+
+nc: 10
+
+names: ['vehicle', 'person', 'light-red', 'sign-person', 'motorcycle',
+        'bicycle', 'sign-cross','sign-single-lane', 'light-green','sign-no-cross']
