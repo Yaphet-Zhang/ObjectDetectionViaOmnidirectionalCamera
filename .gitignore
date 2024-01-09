@@ -1,20 +1,10 @@
 data/video2img
-# add data/video2img/pano_equi_0.jpg
-# add data/video2img/pano_equi_0_resu.jpg
-# add data/video2img/pano_equi_30.jpg
-# add data/video2img/pano_equi_30_resu.jpg
-
-# add data/video2img/results/pano_equi_0.txt 
-# add data/video2img/results/pano_equi_30.txt
+# git add -f data/video2img/pano_equi_0.jpg data/video2img/pano_equi_0_resu.jpg data/video2img/pano_equi_30.jpg data/video2img/pano_equi_30_resu.jpg
+# git add -f data/video2img/results/pano_equi_0.txt data/video2img/results/pano_equi_30.txt
 
 data/video2img_processed
-# add data/video2img_processed/pano_corr_0.jpg
-# add data/video2img_processed/pano_corr_0_resu.jpg
-# add data/video2img_processed/pano_corr_30.jpg
-# add data/video2img_processed/pano_corr_30_resu.jpg
-
-# add data/video2img_processed/results/pano_corr_0.txt
-# add data/video2img_processed/results/pano_corr_30.txt
+# git add -f data/video2img_processed/pano_corr_0.jpg data/video2img_processed/pano_corr_0_resu.jpg data/video2img_processed/pano_corr_30.jpg data/video2img_processed/pano_corr_30_resu.jpg
+# git add -f data/video2img_processed/results/pano_corr_0.txt data/video2img_processed/results/pano_corr_30.txt
 
 data/0panorama_equirectangular.mp4
 data/2panorama_correction.mp4
